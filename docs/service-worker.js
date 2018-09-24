@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "234bfea572ea7406ffd6f3b59f61b95a"
+    "revision": "751a404cb783fdff9aa48b6ca10d82b1"
   },
   {
     "url": "assets/css/31.styles.2fbdb5a1.css",
@@ -804,132 +804,132 @@ self.__precacheManifest = [
     "revision": "a8f2eb52ce68fa40ef2b501dc642a189"
   },
   {
-    "url": "assets/js/app.4da88b71.js",
-    "revision": "70c50ed63b194ab0c5f840e1242299bf"
+    "url": "assets/js/app.236fbb5b.js",
+    "revision": "a265c4c0d2fddaad4bab78d38d9ef90c"
   },
   {
     "url": "index.html",
-    "revision": "3354134bc0b0a1b11b5b5fa8b70f8ce6"
+    "revision": "7fe7f49c83e0e20fd290f6f6986beee4"
   },
   {
     "url": "posts/git-and-github/git.html",
-    "revision": "cfe9f509f0ca13e47daed4f6a6015bc7"
+    "revision": "d50eaf0daae7207cc613139fa16a7f26"
   },
   {
     "url": "posts/git-and-github/github.html",
-    "revision": "f61fb38b4016d2e30ed0a7c2b3b3ac07"
+    "revision": "809ae7ab068d18f7b137dce90f3ffec8"
   },
   {
     "url": "posts/git-and-github/index.html",
-    "revision": "732ad4edb02ba6ceebbfe15b7fd28d3d"
+    "revision": "e0fef133cdf1defd4347d8d6d8179614"
   },
   {
     "url": "posts/index.html",
-    "revision": "35abede5f0620f822246aa66b204579f"
+    "revision": "c134066d00434d53f6e08d07def196bb"
   },
   {
     "url": "posts/intro-data-analyze/index.html",
-    "revision": "3b20b4dbc53600e8936fa68e448bac2d"
+    "revision": "68d1afd96e8e601a0b3f5711e7a3f35b"
   },
   {
     "url": "posts/intro-data-analyze/isdc-pandas-numpy.html",
-    "revision": "9ea45a5c580b25905ff32af5c94ca3b6"
+    "revision": "7b4ca154bc02d84ae39d22a5fd93be9d"
   },
   {
     "url": "posts/intro-data-analyze/isdc-python.html",
-    "revision": "c9e3907a90d82e2d39d9d08fdf193327"
+    "revision": "3de14aec4998d3d67f07cf958fcfc9de"
   },
   {
     "url": "posts/intro-data-analyze/isdc-sql.html",
-    "revision": "d2aa96e924d43de896ca08ed82cca046"
+    "revision": "d6c69255b93c7f5cdd3268211324deb8"
   },
   {
     "url": "posts/intro-self-driving-car/index.html",
-    "revision": "32cb703e32526090166b8c39aa57d515"
+    "revision": "f31047d8a9a001e319b628fbc2427e19"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-Astar.html",
-    "revision": "a6b1d82cbbe3f647fc6bcbf46b9835d6"
+    "revision": "7e597fb03e37ba96f052b46c7a6451fe"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-bayesian-thinking.html",
-    "revision": "72b5cb3a14a495cef9385fb96d22ab12"
+    "revision": "01dcaf49d8a61267073e3be20531d7a5"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-how-2-solve-problem.html",
-    "revision": "697a40bcc80bf8df90b791b859b329d1"
+    "revision": "12e968eb62a22c7240f1ce215f8d4d60"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-probablity.html",
-    "revision": "fd8e413fb520538fdd392751dddaabba"
+    "revision": "dc724cfdcf3ef7db2b7e23589b79a557"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-router-planner.html",
-    "revision": "e9e13b0ce204e2755598eb6ce8cf6ddb"
+    "revision": "f2bf33a1c8d70b05c4e5a86517f36601"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-the-search-problem.html",
-    "revision": "15f12cb44f477173b39d24e413f520b8"
+    "revision": "1bc725aad00e8c4d06b12f17a3a4f124"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-traffic-light-classfier.html",
-    "revision": "60c1d0761619b3033c889e91d752ff91"
+    "revision": "c05bd7a6d0c3cf24871e366a945b9a4f"
   },
   {
     "url": "posts/others/index.html",
-    "revision": "123f8898d969756157bbab2af30d76b0"
+    "revision": "5d3cd084f3148e25034d28feed09bcb0"
   },
   {
     "url": "posts/others/instruction.html",
-    "revision": "7fd02604c4a4160cbfab71405e5432b3"
+    "revision": "2a03f21f59debb29bf2bc7909b211c04"
   },
   {
     "url": "posts/self-driving-car/2018-08-11.html",
-    "revision": "c3c54063dc18a9c750d65ed067f1ceca"
+    "revision": "9cce54450e9dc52cc413765a286795c6"
   },
   {
     "url": "posts/self-driving-car/2018-08-19.html",
-    "revision": "85dc721e9c578450c5c36c4db6115088"
+    "revision": "64bfbe701c36f71552076979d037c3db"
   },
   {
     "url": "posts/self-driving-car/adv_cv.html",
-    "revision": "b254eb478538e02c671eda22baec278b"
+    "revision": "a950f1b9077574bbfc58156a07152ebb"
   },
   {
     "url": "posts/self-driving-car/camera.html",
-    "revision": "cf59ba6a8f5d2f6a4cdd15c4a2ed3b62"
+    "revision": "ca1329b9516cbbd5e9959c3d06117d2e"
   },
   {
     "url": "posts/self-driving-car/colorspace.html",
-    "revision": "959922c0849789f67ca1364720253215"
+    "revision": "2531362c8d89b53fe14333f3758ce079"
   },
   {
     "url": "posts/self-driving-car/deeplearning.html",
-    "revision": "f65731a856cb86e5eba6d76dee383eef"
+    "revision": "fdf91c3d579584675074fe5aa49d5c7f"
   },
   {
     "url": "posts/self-driving-car/find-lane-line.html",
-    "revision": "45b8109b96eb103571a368f9f273a731"
+    "revision": "f70a759040887fc504bf523085f39a44"
   },
   {
     "url": "posts/self-driving-car/index.html",
-    "revision": "4260be9cbe0fae54e456a2d2f30e1e58"
+    "revision": "30032c81c8a881917500f993f0b0598d"
   },
   {
     "url": "posts/self-driving-car/p2.html",
-    "revision": "c159399f6c9c108d3109d93543941df5"
+    "revision": "89cec36a18655939ba413f0537bd7ea0"
   },
   {
     "url": "posts/self-driving-car/perspective.html",
-    "revision": "05944f58ae6aa76afd364a4628754104"
+    "revision": "35b0415dbc812bd7167b9dade3dead65"
   },
   {
     "url": "posts/self-driving-car/tensorflow.html",
-    "revision": "85d4270899b43b66ed8bbbbef97d6e83"
+    "revision": "68b8104e79719b50a1666fd144cf69f5"
   },
   {
     "url": "posts/self-driving-car/trans.html",
-    "revision": "1fe9ffb908069261fe510835cb7272ee"
+    "revision": "43fcd455ad4ed6dfcfad1b260a5c4244"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

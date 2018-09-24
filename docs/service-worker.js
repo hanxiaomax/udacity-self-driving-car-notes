@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "751a404cb783fdff9aa48b6ca10d82b1"
+    "revision": "292a1d4d662833a41290e4bd4d7b557d"
   },
   {
-    "url": "assets/css/31.styles.2fbdb5a1.css",
-    "revision": "1f545cadff2e9cf17d6f7fc72b242ea2"
+    "url": "assets/css/31.styles.78f714da.css",
+    "revision": "86d3752e9ad9c4c03de7f767c3a4a5a9"
   },
   {
     "url": "assets/img/15219527815258.088def04.jpg",
@@ -804,132 +804,132 @@ self.__precacheManifest = [
     "revision": "a8f2eb52ce68fa40ef2b501dc642a189"
   },
   {
-    "url": "assets/js/app.236fbb5b.js",
-    "revision": "a265c4c0d2fddaad4bab78d38d9ef90c"
+    "url": "assets/js/app.e1e8766b.js",
+    "revision": "b4fce25e1f3807825040963c372a47f1"
   },
   {
     "url": "index.html",
-    "revision": "7fe7f49c83e0e20fd290f6f6986beee4"
+    "revision": "d1c323c0d83ca1279fb4ff42a2cee16a"
   },
   {
     "url": "posts/git-and-github/git.html",
-    "revision": "d50eaf0daae7207cc613139fa16a7f26"
+    "revision": "90630d25ae8159038cfbeccef9441442"
   },
   {
     "url": "posts/git-and-github/github.html",
-    "revision": "809ae7ab068d18f7b137dce90f3ffec8"
+    "revision": "2db1537182935941dbfb34eb637097ee"
   },
   {
     "url": "posts/git-and-github/index.html",
-    "revision": "e0fef133cdf1defd4347d8d6d8179614"
+    "revision": "3104e8355e739937af91f8548634c8cc"
   },
   {
     "url": "posts/index.html",
-    "revision": "c134066d00434d53f6e08d07def196bb"
+    "revision": "5898c1977b4ee64cf790fcce2fe3bc9a"
   },
   {
     "url": "posts/intro-data-analyze/index.html",
-    "revision": "68d1afd96e8e601a0b3f5711e7a3f35b"
+    "revision": "1d13f19642cc752782bcf7df2cf7d40e"
   },
   {
     "url": "posts/intro-data-analyze/isdc-pandas-numpy.html",
-    "revision": "7b4ca154bc02d84ae39d22a5fd93be9d"
+    "revision": "8b009660f88b82b57c66f22ac273d449"
   },
   {
     "url": "posts/intro-data-analyze/isdc-python.html",
-    "revision": "3de14aec4998d3d67f07cf958fcfc9de"
+    "revision": "3ac33187ecbb698650f6d840df57117f"
   },
   {
     "url": "posts/intro-data-analyze/isdc-sql.html",
-    "revision": "d6c69255b93c7f5cdd3268211324deb8"
+    "revision": "da1f8d8ba8303428bd310315f4f93a28"
   },
   {
     "url": "posts/intro-self-driving-car/index.html",
-    "revision": "f31047d8a9a001e319b628fbc2427e19"
+    "revision": "5a6c88713cd7c1d343da04fc3a6e9cd8"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-Astar.html",
-    "revision": "7e597fb03e37ba96f052b46c7a6451fe"
+    "revision": "a9282b5ec3115bc5c06b9e5c8b0810b4"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-bayesian-thinking.html",
-    "revision": "01dcaf49d8a61267073e3be20531d7a5"
+    "revision": "85b7ab24319f6d9aa251bb05d972b054"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-how-2-solve-problem.html",
-    "revision": "12e968eb62a22c7240f1ce215f8d4d60"
+    "revision": "95def52d0916157bf9218c8698790180"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-probablity.html",
-    "revision": "dc724cfdcf3ef7db2b7e23589b79a557"
+    "revision": "0bc349211669b9b3de490b392203f5a8"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-router-planner.html",
-    "revision": "f2bf33a1c8d70b05c4e5a86517f36601"
+    "revision": "e2d8d2786eb9e9da687ecbeccd5619ae"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-the-search-problem.html",
-    "revision": "1bc725aad00e8c4d06b12f17a3a4f124"
+    "revision": "a5dac0b0a130e1dba241d81d1c5966ec"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-traffic-light-classfier.html",
-    "revision": "c05bd7a6d0c3cf24871e366a945b9a4f"
+    "revision": "df94c12abec9f8ab96a9879ba42f21e8"
   },
   {
     "url": "posts/others/index.html",
-    "revision": "5d3cd084f3148e25034d28feed09bcb0"
+    "revision": "8ce5cb71a96e14a367d6beab139692e2"
   },
   {
     "url": "posts/others/instruction.html",
-    "revision": "2a03f21f59debb29bf2bc7909b211c04"
+    "revision": "7213b98a7b236877ac08a66480f71af2"
   },
   {
     "url": "posts/self-driving-car/2018-08-11.html",
-    "revision": "9cce54450e9dc52cc413765a286795c6"
+    "revision": "f3905954eebb711b00525c9b30a97ea1"
   },
   {
     "url": "posts/self-driving-car/2018-08-19.html",
-    "revision": "64bfbe701c36f71552076979d037c3db"
+    "revision": "77d70dddb90c7effd3082200f2666b96"
   },
   {
     "url": "posts/self-driving-car/adv_cv.html",
-    "revision": "a950f1b9077574bbfc58156a07152ebb"
+    "revision": "8402ef41d212e4913da0b43721161ca1"
   },
   {
     "url": "posts/self-driving-car/camera.html",
-    "revision": "ca1329b9516cbbd5e9959c3d06117d2e"
+    "revision": "2981b3900903cca98ab672aba6046ee0"
   },
   {
     "url": "posts/self-driving-car/colorspace.html",
-    "revision": "2531362c8d89b53fe14333f3758ce079"
+    "revision": "31b6a85c6d461921cdac5ed82339c91b"
   },
   {
     "url": "posts/self-driving-car/deeplearning.html",
-    "revision": "fdf91c3d579584675074fe5aa49d5c7f"
+    "revision": "26e9cac827732a42e6572b0d252bec52"
   },
   {
     "url": "posts/self-driving-car/find-lane-line.html",
-    "revision": "f70a759040887fc504bf523085f39a44"
+    "revision": "933148694e9c50d6520ee9c8bafda5f6"
   },
   {
     "url": "posts/self-driving-car/index.html",
-    "revision": "30032c81c8a881917500f993f0b0598d"
+    "revision": "db7ef3c742fb018ab570f233012b365c"
   },
   {
     "url": "posts/self-driving-car/p2.html",
-    "revision": "89cec36a18655939ba413f0537bd7ea0"
+    "revision": "31f606fd2eac8e70318be3a4a90c047e"
   },
   {
     "url": "posts/self-driving-car/perspective.html",
-    "revision": "35b0415dbc812bd7167b9dade3dead65"
+    "revision": "1ef9fe2f67a6fcd8820027246fbbddfe"
   },
   {
     "url": "posts/self-driving-car/tensorflow.html",
-    "revision": "68b8104e79719b50a1666fd144cf69f5"
+    "revision": "60d432b0000834f6d1521a1bfcf89dad"
   },
   {
     "url": "posts/self-driving-car/trans.html",
-    "revision": "43fcd455ad4ed6dfcfad1b260a5c4244"
+    "revision": "11909d59274503cf81aae78940e90410"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

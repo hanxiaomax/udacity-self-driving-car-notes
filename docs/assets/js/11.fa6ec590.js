@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{236:function(t,e,n){"use strict";n.r(e);var i=n(0),l=Object(i.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content"},[e("p",[e("router-link",{attrs:{to:"media/writeup_template.html"}},[this._v("writeup_template")])],1)])},[],!1,null,null,null);e.default=l.exports}}]);

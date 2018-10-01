@@ -21,10 +21,10 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "292a1d4d662833a41290e4bd4d7b557d"
+    "revision": "2bf13d97737e4c6e3348f09ad084f54c"
   },
   {
-    "url": "assets/css/31.styles.78f714da.css",
+    "url": "assets/css/32.styles.682d7a9a.css",
     "revision": "86d3752e9ad9c4c03de7f767c3a4a5a9"
   },
   {
@@ -560,6 +560,18 @@ self.__precacheManifest = [
     "revision": "bf00c81ccc88aae342afac0d7feb2410"
   },
   {
+    "url": "assets/img/15378868023217.0a15f649.jpg",
+    "revision": "0a15f6492447620efc4354768f5a1a98"
+  },
+  {
+    "url": "assets/img/15378868514610.c560a11a.jpg",
+    "revision": "c560a11a98d0915669bb9ee0c15343b7"
+  },
+  {
+    "url": "assets/img/15378872218446.796fdecc.jpg",
+    "revision": "796fdecc9d1aa51106025847f9a2b4bd"
+  },
+  {
     "url": "assets/img/bird_undistort_straight_lines2.jpg.aa7e91c8.jpg",
     "revision": "aa7e91c8caf98cda23a3483f887b087e"
   },
@@ -640,6 +652,10 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
+    "url": "assets/img/tensors_flowing.4a67e129.gif",
+    "revision": "4a67e12961d71d510c83c2aa35a8febb"
+  },
+  {
     "url": "assets/img/Undistort_calibration15.1ffaebbb.jpg",
     "revision": "1ffaebbb623cbe5f4e4fe1806d42c92f"
   },
@@ -680,256 +696,264 @@ self.__precacheManifest = [
     "revision": "1a5fece5b81f8113f1001256523a7084"
   },
   {
-    "url": "assets/js/0.2463dc96.js",
-    "revision": "1554d80d613207a18c16d15baf82941e"
+    "url": "assets/js/0.2ba6b7c9.js",
+    "revision": "24d5a9b1818238e4d4dbb65250deeb51"
   },
   {
-    "url": "assets/js/1.04af19a5.js",
-    "revision": "71b80ad8183c9586123e36aa5788ecc2"
+    "url": "assets/js/1.736f2c59.js",
+    "revision": "6829a9af1f07d3d6820fd6bcef591c15"
   },
   {
-    "url": "assets/js/10.d656f8d8.js",
-    "revision": "1ba64c8781eb5440803bb984a72cd7c0"
+    "url": "assets/js/10.0ae7f9c2.js",
+    "revision": "1e5a1315e71928babede4d64f412241e"
   },
   {
-    "url": "assets/js/11.fa6ec590.js",
-    "revision": "496081f189c3c752ec8db0c08d062023"
+    "url": "assets/js/11.46c25364.js",
+    "revision": "89adfb9285054997d76fb353308077e7"
   },
   {
-    "url": "assets/js/12.96a57ac4.js",
-    "revision": "68daa2b33610ff8a8f32b1877cd7049b"
+    "url": "assets/js/12.623d0f90.js",
+    "revision": "224a113650fb5aa0def0ea5972b9084d"
   },
   {
-    "url": "assets/js/13.fd8c2540.js",
-    "revision": "4c6b670d91e32f5e31d0e1bf0e5fe6e2"
+    "url": "assets/js/13.cb21b7cf.js",
+    "revision": "38c9919fa609c034bd677a136889eaf4"
   },
   {
-    "url": "assets/js/14.90dcaa86.js",
-    "revision": "56a01b1efb6e38fec7f38b5e8c338666"
+    "url": "assets/js/14.f89c8559.js",
+    "revision": "7cda1b34d7fdef34af74648093da38ef"
   },
   {
-    "url": "assets/js/15.ecaf6c41.js",
-    "revision": "b203bbc7348fb525e3374de618df3019"
+    "url": "assets/js/15.8f4093d4.js",
+    "revision": "840cee93986ac8a1fc9da6c26a28f248"
   },
   {
-    "url": "assets/js/16.67d56926.js",
-    "revision": "84a2a66936043c3441fff02e90dfb54f"
+    "url": "assets/js/16.fba7685d.js",
+    "revision": "d0749328f9411735de59611cab0636b3"
   },
   {
-    "url": "assets/js/17.18e33e7d.js",
-    "revision": "a9b7308c1d82cbc1cc27b81a5aa4791f"
+    "url": "assets/js/17.e22224c5.js",
+    "revision": "83820ccab1ea2e37744e3656daa54805"
   },
   {
-    "url": "assets/js/18.d8d1ff83.js",
-    "revision": "77e195426628d198c3809fe03db5a6da"
+    "url": "assets/js/18.f4cfef8b.js",
+    "revision": "b3ea1366f964ac2295ec5f450346a49d"
   },
   {
-    "url": "assets/js/19.78178b0c.js",
-    "revision": "97aefdc7fa0491a4c6395b613f338b87"
+    "url": "assets/js/19.5af99d2e.js",
+    "revision": "fc8b47a52bb218c6f2d5907adbec6292"
   },
   {
-    "url": "assets/js/2.c6b5b01b.js",
-    "revision": "97f31245492a00f70df8a3b21c688abd"
+    "url": "assets/js/2.34ad9625.js",
+    "revision": "247b7e45798c487e8be4f9b4040402c2"
   },
   {
-    "url": "assets/js/20.9298feab.js",
-    "revision": "976b632dc8db8d572b690c627769de5f"
+    "url": "assets/js/20.403bc485.js",
+    "revision": "f46a6de8fe807efc55f6f50f4b007741"
   },
   {
-    "url": "assets/js/21.5ba2ba0a.js",
-    "revision": "e3b44f63447bd2d87eaf8e609181df84"
+    "url": "assets/js/21.055c05ed.js",
+    "revision": "e72aa1434dddc7363cda8e0972298cb4"
   },
   {
-    "url": "assets/js/22.c67ec218.js",
-    "revision": "109a031c93e4465e956aec1f9f97a668"
+    "url": "assets/js/22.18625f38.js",
+    "revision": "00852d498d8ec4a0404947fc6c3b74ae"
   },
   {
-    "url": "assets/js/23.36dc4ecc.js",
-    "revision": "0e3614d0de4f6bb6dd8f2dfc7e5ce766"
+    "url": "assets/js/23.acc1bde3.js",
+    "revision": "32855764c2a4302721c58a86947d3c0e"
   },
   {
-    "url": "assets/js/24.2e333e57.js",
-    "revision": "bbc876a0680e83459bb521478d72d6bf"
+    "url": "assets/js/24.b858fffb.js",
+    "revision": "14b933b389fc07d15abd13b0bcd00955"
   },
   {
-    "url": "assets/js/25.7e90be87.js",
-    "revision": "d331bedb5ab9744774bcb5931056f8a5"
+    "url": "assets/js/25.95ac7f6f.js",
+    "revision": "8ea630c19a4289b198cde535667e3815"
   },
   {
-    "url": "assets/js/26.34ea9792.js",
-    "revision": "ce28646348829ac828603601aa5c10e8"
+    "url": "assets/js/26.8e47a306.js",
+    "revision": "e3de0f7dd06be9998d1f29bdd0c0ad53"
   },
   {
-    "url": "assets/js/27.6a6d77c4.js",
-    "revision": "959d88bc6f8901df56ed6bd3a5a56fb8"
+    "url": "assets/js/27.e0c879ac.js",
+    "revision": "e87319782e348d2657643068b77ad15c"
   },
   {
-    "url": "assets/js/28.e336023b.js",
-    "revision": "53c67e928077328aa3c109580c0f53c7"
+    "url": "assets/js/28.ed8b6a7a.js",
+    "revision": "64591125ccb4065275a56ebfab6ecf7c"
   },
   {
-    "url": "assets/js/29.8f3271a0.js",
-    "revision": "7ca5eda96793cbb4c419087bf3a38691"
+    "url": "assets/js/29.abd0ecf0.js",
+    "revision": "72001b37d693d1626ea4c12907606864"
   },
   {
-    "url": "assets/js/3.74aac228.js",
-    "revision": "7cb92f53ba63d89a8103cea5c311ef26"
+    "url": "assets/js/3.561eb773.js",
+    "revision": "951513f221e547446736e00231d6cb7c"
   },
   {
-    "url": "assets/js/30.90239d68.js",
-    "revision": "23eff177955bcda1a95cd742d0fb4875"
+    "url": "assets/js/30.c2787464.js",
+    "revision": "cba471d1f1610e2d2796d7d8ad7b981a"
   },
   {
-    "url": "assets/js/4.c49e5b95.js",
-    "revision": "209c89677ff7606fa2651259bda1fdb4"
+    "url": "assets/js/31.ac5344e3.js",
+    "revision": "84e63dce4a6d1bb67901d57004517105"
   },
   {
-    "url": "assets/js/5.7d037f4b.js",
-    "revision": "62f074c1fcf4c2c01d785b18489ccafb"
+    "url": "assets/js/4.13898a43.js",
+    "revision": "59f913ca6d95b42c54a619bb31e9c298"
   },
   {
-    "url": "assets/js/6.51d8660f.js",
-    "revision": "bd901f4968451fbcdd8b793f90fa7671"
+    "url": "assets/js/5.296eb980.js",
+    "revision": "9730d42310300c70f7fa39332ada1dac"
   },
   {
-    "url": "assets/js/7.95a37ced.js",
-    "revision": "6e27ee80d85f2ee413f67a7755108854"
+    "url": "assets/js/6.92b5cd2e.js",
+    "revision": "2e76f676c04f813662b7ef99262f2eb7"
   },
   {
-    "url": "assets/js/8.199ba28e.js",
-    "revision": "d03ff9b25dbb8a37aa03a57ef3a621c9"
+    "url": "assets/js/7.ef760954.js",
+    "revision": "95175dc954ccb871aaf23db726d9db44"
   },
   {
-    "url": "assets/js/9.805dc6d8.js",
-    "revision": "a8f2eb52ce68fa40ef2b501dc642a189"
+    "url": "assets/js/8.c841ac56.js",
+    "revision": "33b2284593c7fe1c3f9b3230288a9d91"
   },
   {
-    "url": "assets/js/app.e1e8766b.js",
-    "revision": "b4fce25e1f3807825040963c372a47f1"
+    "url": "assets/js/9.f80a9991.js",
+    "revision": "6caa19e9b4b054db8e1488e64f54db70"
+  },
+  {
+    "url": "assets/js/app.7e9a8898.js",
+    "revision": "407b420b77db8e9032d2c221aa45a1ac"
   },
   {
     "url": "index.html",
-    "revision": "d1c323c0d83ca1279fb4ff42a2cee16a"
+    "revision": "6686ef6ad1e5b7c0c83c736a799002f6"
   },
   {
     "url": "posts/git-and-github/git.html",
-    "revision": "90630d25ae8159038cfbeccef9441442"
+    "revision": "ec8a6d6b2c82779df16a44e1542d119c"
   },
   {
     "url": "posts/git-and-github/github.html",
-    "revision": "2db1537182935941dbfb34eb637097ee"
+    "revision": "f7139aa992b4f1692f0e6db4db986b3d"
   },
   {
     "url": "posts/git-and-github/index.html",
-    "revision": "3104e8355e739937af91f8548634c8cc"
+    "revision": "39875660f5b7e408c2c6587112f3c0aa"
   },
   {
     "url": "posts/index.html",
-    "revision": "5898c1977b4ee64cf790fcce2fe3bc9a"
+    "revision": "0e0f95e019342602c9344b92113c186f"
   },
   {
     "url": "posts/intro-data-analyze/index.html",
-    "revision": "1d13f19642cc752782bcf7df2cf7d40e"
+    "revision": "a0d537811656e439abc4746592824192"
   },
   {
     "url": "posts/intro-data-analyze/isdc-pandas-numpy.html",
-    "revision": "8b009660f88b82b57c66f22ac273d449"
+    "revision": "30e991fac334edd229d7742fbd6d14d7"
   },
   {
     "url": "posts/intro-data-analyze/isdc-python.html",
-    "revision": "3ac33187ecbb698650f6d840df57117f"
+    "revision": "9cff6ae3cc77f062f4ad95da029f2dd2"
   },
   {
     "url": "posts/intro-data-analyze/isdc-sql.html",
-    "revision": "da1f8d8ba8303428bd310315f4f93a28"
+    "revision": "6969f6eab0ec3c96bf069ae2629e247e"
   },
   {
     "url": "posts/intro-self-driving-car/index.html",
-    "revision": "5a6c88713cd7c1d343da04fc3a6e9cd8"
+    "revision": "bb08cda27a342bf8a3176a668b6dccb5"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-Astar.html",
-    "revision": "a9282b5ec3115bc5c06b9e5c8b0810b4"
+    "revision": "ebe6792b9202f4c5549d75bf6ed98019"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-bayesian-thinking.html",
-    "revision": "85b7ab24319f6d9aa251bb05d972b054"
+    "revision": "8a8f8d68891ae2c2e27eb3d78de7e17e"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-how-2-solve-problem.html",
-    "revision": "95def52d0916157bf9218c8698790180"
+    "revision": "ab3ef897ef88aa41fc4eca25c7be2949"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-probablity.html",
-    "revision": "0bc349211669b9b3de490b392203f5a8"
+    "revision": "1dc443c0141b262d8c18cf84c67e1401"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-router-planner.html",
-    "revision": "e2d8d2786eb9e9da687ecbeccd5619ae"
+    "revision": "8a962dbd1bfc4657af8f91b9e59fca6b"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-the-search-problem.html",
-    "revision": "a5dac0b0a130e1dba241d81d1c5966ec"
+    "revision": "e8b53ccab709225b5ea9e6c823185661"
   },
   {
     "url": "posts/intro-self-driving-car/isdc-traffic-light-classfier.html",
-    "revision": "df94c12abec9f8ab96a9879ba42f21e8"
+    "revision": "3b32e1b083129c96e654c4a7d8aa0456"
   },
   {
     "url": "posts/others/index.html",
-    "revision": "8ce5cb71a96e14a367d6beab139692e2"
+    "revision": "d15ecd5d080276c7072860df596f4715"
   },
   {
     "url": "posts/others/instruction.html",
-    "revision": "7213b98a7b236877ac08a66480f71af2"
+    "revision": "630824f5b28b9372c8ab5dff0b12043e"
   },
   {
     "url": "posts/self-driving-car/2018-08-11.html",
-    "revision": "f3905954eebb711b00525c9b30a97ea1"
+    "revision": "32a8ab041446f3ff090480ce67e33fdb"
   },
   {
     "url": "posts/self-driving-car/2018-08-19.html",
-    "revision": "77d70dddb90c7effd3082200f2666b96"
+    "revision": "78acb425689b21f981e649efa00ffc07"
+  },
+  {
+    "url": "posts/self-driving-car/2018-09-24.html",
+    "revision": "747b0a70021ebaf3185666e94d90bf84"
   },
   {
     "url": "posts/self-driving-car/adv_cv.html",
-    "revision": "8402ef41d212e4913da0b43721161ca1"
+    "revision": "3780219a7030e9a18a3b07a8f8402ea9"
   },
   {
     "url": "posts/self-driving-car/camera.html",
-    "revision": "2981b3900903cca98ab672aba6046ee0"
+    "revision": "ef1abe0e931b09eac66d9f9d066a3a52"
   },
   {
     "url": "posts/self-driving-car/colorspace.html",
-    "revision": "31b6a85c6d461921cdac5ed82339c91b"
+    "revision": "f8f500ddcbb12a925879ebf545673b87"
   },
   {
     "url": "posts/self-driving-car/deeplearning.html",
-    "revision": "26e9cac827732a42e6572b0d252bec52"
+    "revision": "b549303931bcfdcc48b188db7f6d8e7d"
   },
   {
     "url": "posts/self-driving-car/find-lane-line.html",
-    "revision": "933148694e9c50d6520ee9c8bafda5f6"
+    "revision": "bb9ae7dfda320061e4ea2fddb39fc227"
   },
   {
     "url": "posts/self-driving-car/index.html",
-    "revision": "db7ef3c742fb018ab570f233012b365c"
+    "revision": "1b9b1361c7ad43563fccfaf55e4afac3"
   },
   {
     "url": "posts/self-driving-car/p2.html",
-    "revision": "31f606fd2eac8e70318be3a4a90c047e"
+    "revision": "c7adcb7ca4280e09405c3723d98da2ec"
   },
   {
     "url": "posts/self-driving-car/perspective.html",
-    "revision": "1ef9fe2f67a6fcd8820027246fbbddfe"
+    "revision": "a7b7a8ff9924cabd2701ccc361fe4665"
   },
   {
     "url": "posts/self-driving-car/tensorflow.html",
-    "revision": "60d432b0000834f6d1521a1bfcf89dad"
+    "revision": "4ac1a6db3f003bbc4445debee89855b3"
   },
   {
     "url": "posts/self-driving-car/trans.html",
-    "revision": "11909d59274503cf81aae78940e90410"
+    "revision": "30c92b1519c298b1c23d30aeef092d33"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
